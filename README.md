@@ -6,7 +6,7 @@ This project will get you started with Docker and Flask. You need to have Docker
 
 * Go to `web/`. Read every line of the docker file and the simple flask app.
 
-* Build the simple flask app image using
+* **Go back to the main directory**, and build the simple flask app image using
 
   ```
   docker build -t some-image-name .
