@@ -1,3 +1,8 @@
+Kyle Zschokke
+kzschok3@uoregon.edu
+
+This is a simple web server hosted on Docker, the server has implemented file checing logic.  
+
 # UOCIS322 - Project 2 #
 
 This project will get you started with Docker and Flask. You need to have Docker set up on your machine to complete this project. You can alternatively use the machine we talked about in class.
