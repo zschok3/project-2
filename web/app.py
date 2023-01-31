@@ -45,7 +45,7 @@ def page_not_found(e):
 
 @app.errorhandler(403)
 def forbidden(e):
-    return open(docroot+ "/403.html"), 403
+    return open(docroot + "/403.html"), 403
 
 @app.before_request
 def prevent_access_hidden_files():
